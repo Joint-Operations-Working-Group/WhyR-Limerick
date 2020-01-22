@@ -1,6 +1,8 @@
 Why R? @ Career Zoo Limerick
 ======================================
 
+<img src="http://whyr.pl/2020/img/whyr2020/limerick.jpg">
+
 #### Why R? Pre-meeting Limerick @ Career Zoo Limerick - Saturday 1st February 2020
 
 * Date: Saturday 1st February 2020
@@ -13,9 +15,10 @@ Why R? @ Career Zoo Limerick
 
 #### Why R Pre-Meeting Series
 
+
 * Why R? - [Website](https://www.whyr.pl)
 
-<img src="whyR.jpg" alt="Why R Map of European Events in 2020" height="300"/> <img src="WhyR-SouthernAfrica.jpeg" alt="Why R Map of African Events in 2020" height="300"/>
+<img src="http://whyr.pl/2020/img/whyr2020/meetings.jpg" alt="Why R Map of European Events in 2020" height="300"/> <img src="WhyR-SouthernAfrica.jpeg" alt="Why R Map of African Events in 2020" height="300"/>
 
 ## Schedule (Provisional)
 
